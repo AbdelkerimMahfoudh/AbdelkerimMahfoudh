@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdelkerimMahfoudh
-- 👀 I’m interested in Dvelopement in general but particulary full stack 
-- 🌱 I’m currently learning React, Node.
-- 💞️ I’m looking to collaborate on Flutter projects
+- 👀 I’m interested in Dvelopement in general but particulary full stack web developement
+- 🌱 I’m currently learning ReactJS, NodeJS and MongoDB 
+- 💞️ I’m looking to collaborate on Front-end web dev and also Flutter projects
 - 📫 How to reach me Abdelkerim.mahfoudh@gmail.com
 
 <!---
